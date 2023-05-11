@@ -1,0 +1,2 @@
+screenmode = 0 
+skipintro = 0 
